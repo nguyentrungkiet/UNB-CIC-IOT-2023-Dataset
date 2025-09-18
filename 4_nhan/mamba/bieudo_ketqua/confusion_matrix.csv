@@ -1,0 +1,5 @@
+,Predicted Benign,Predicted DoS_DDoS,Predicted Exploits_WebAttacks_Malware,Predicted Recon_Spoofing_MITM
+Actual Benign,205,0,0,29
+Actual DoS_DDoS,0,9566,0,6
+Actual Exploits_WebAttacks_Malware,1,0,0,8
+Actual Recon_Spoofing_MITM,50,4,0,131

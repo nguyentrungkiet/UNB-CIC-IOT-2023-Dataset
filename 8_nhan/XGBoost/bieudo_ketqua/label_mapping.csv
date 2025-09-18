@@ -1,0 +1,9 @@
+Encoded,Group
+0,Benign
+1,DDoS_Application
+2,DDoS_Flooding
+3,DDoS_Fragmentation
+4,DoS_Flooding
+5,Exploits_Injection
+6,Mirai_Botnet
+7,Recon_Spoofing

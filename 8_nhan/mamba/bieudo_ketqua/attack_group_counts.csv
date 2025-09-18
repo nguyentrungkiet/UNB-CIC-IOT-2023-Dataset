@@ -1,0 +1,9 @@
+group,count,percentage
+DDoS_Flooding,35168,70.336
+DoS_Flooding,8666,17.332
+Mirai_Botnet,2855,5.71
+Benign,1170,2.34
+DDoS_Fragmentation,1124,2.248
+Recon_Spoofing,924,1.848
+DDoS_Application,50,0.1
+Exploits_Injection,43,0.086

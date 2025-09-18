@@ -1,0 +1,5 @@
+group,count,percentage
+DoS_DDoS,47863,95.726
+Benign,1170,2.34
+Recon_Spoofing_MITM,924,1.848
+Exploits_WebAttacks_Malware,43,0.086

@@ -1,0 +1,11 @@
+Metric,Value
+Training Accuracy,0.9936666666666667
+Validation Accuracy,0.9923
+Test Accuracy,0.9907
+Training Loss,0.016610301259082173
+Validation Loss,0.020725243543821086
+Test Loss,0.022439780784520708
+Test Precision (weighted),0.9899737142219784
+Test Recall (weighted),0.9907
+Test F1 Score (weighted),0.9903047436782697
+Training Time (seconds),59.75224685668945

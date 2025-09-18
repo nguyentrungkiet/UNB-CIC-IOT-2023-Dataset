@@ -1,0 +1,9 @@
+,Predicted Benign,Predicted DDoS_Application,Predicted DDoS_Flooding,Predicted DDoS_Fragmentation,Predicted DoS_Flooding,Predicted Exploits_Injection,Predicted Mirai_Botnet,Predicted Recon_Spoofing
+Actual Benign,199,0,0,0,0,10,0,25
+Actual DDoS_Application,4,6,0,0,0,0,0,0
+Actual DDoS_Flooding,1,17,6927,0,76,0,0,13
+Actual DDoS_Fragmentation,0,1,0,221,0,0,0,3
+Actual DoS_Flooding,4,9,1,2,1705,1,0,11
+Actual Exploits_Injection,1,0,0,0,0,1,0,6
+Actual Mirai_Botnet,2,0,0,0,0,0,566,3
+Actual Recon_Spoofing,50,2,0,0,0,16,0,117

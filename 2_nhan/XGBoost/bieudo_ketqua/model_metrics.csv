@@ -1,0 +1,13 @@
+Metric,Value
+Training Accuracy,0.9971666666666666
+Validation Accuracy,0.9922
+Test Accuracy,0.9937
+Training Loss,0.00868662227912438
+Validation Loss,0.016896634972290846
+Test Loss,0.014997240420996826
+Test Precision,0.9968253968253968
+Test Recall,0.9967233258242884
+Test F1 Score,0.9967743587117915
+Test AUC-ROC,0.9985135066539941
+Training Time (seconds),0.8415975570678711
+Number of Iterations,100.0

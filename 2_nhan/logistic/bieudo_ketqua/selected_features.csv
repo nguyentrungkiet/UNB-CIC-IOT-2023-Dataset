@@ -1,0 +1,28 @@
+selected_feature
+flow_duration
+Header_Length
+Protocol Type
+Duration
+syn_flag_number
+psh_flag_number
+ack_flag_number
+syn_count
+fin_count
+rst_count
+HTTP
+HTTPS
+DNS
+TCP
+UDP
+ARP
+ICMP
+IPv
+LLC
+Tot sum
+Min
+Max
+Tot size
+IAT
+Radius
+Covariance
+Variance

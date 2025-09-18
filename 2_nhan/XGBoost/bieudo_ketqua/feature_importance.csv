@@ -1,0 +1,47 @@
+Feature,Importance
+rst_count,0.34965372
+Variance,0.096175954
+ack_flag_number,0.085021324
+fin_count,0.051065095
+flow_duration,0.049116146
+urg_count,0.037021272
+psh_flag_number,0.029305277
+Number,0.028968807
+Duration,0.024260592
+Rate,0.021481542
+IAT,0.021110592
+HTTP,0.018315446
+Srate,0.016809339
+TCP,0.015904594
+Magnitue,0.015756967
+AVG,0.0141378455
+Protocol Type,0.013854676
+Weight,0.010229711
+Tot size,0.01020307
+Header_Length,0.009929013
+ack_count,0.009817864
+syn_count,0.009700631
+Max,0.009413656
+UDP,0.0086451
+HTTPS,0.007771901
+Std,0.0076610674
+Min,0.007635016
+Covariance,0.007556352
+Tot sum,0.006804455
+Radius,0.0066729933
+fin_flag_number,0.0
+rst_flag_number,0.0
+ece_flag_number,0.0
+Drate,0.0
+syn_flag_number,0.0
+LLC,0.0
+IPv,0.0
+ICMP,0.0
+ARP,0.0
+DHCP,0.0
+cwr_flag_number,0.0
+IRC,0.0
+SSH,0.0
+Telnet,0.0
+DNS,0.0
+SMTP,0.0

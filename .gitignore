@@ -1,0 +1,33 @@
+# Ignore large dataset files
+combined_data_cleaned.csv.gz
+first_50000_rows.csv
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model files (too large for GitHub)
+*.keras
+*.h5
+*.pkl
+*.joblib
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.venv/
+env/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
